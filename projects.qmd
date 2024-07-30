@@ -3,7 +3,13 @@ title: "Projects"
 ---
 
 ## Project 1
+The HTML file titled "Most Expensive Paintings" provides a comprehensive overview of the world's priciest artworks.It features detailed descriptions of each painting, including their current prices, historical context, and information about the artists. The document, created on July 3, 2024, is designed for web presentation, utilizing HTML for structure and JavaScript to enhance the functionality of headers and other interactive elements.
+
+https://github.com/fakalikhan/mywebsite/blob/main/Most%20Expensive%20Paintings.pdf
 
 ## Project 2
+The document titled "Panel Data Analysis" provides an in-depth exploration of fixed effects models in econometrics. It covers the essential concepts of panel data, which includes observations over multiple time periods for various entities, and emphasizes the benefits of using fixed effects models to control for unobserved heterogeneity. The analysis includes discussions on cross-sectional data, panel data, fixed effects regression, and manual computation methods such as first differencing and time demeaning. The document presents comparative analyses and detailed regression results to illustrate the application and advantages of fixed effects models in improving causal inference and reducing omitted variable bias. Various tables and plots are included to demonstrate the relationships between price and quantity in different locations over time, showcasing both overall trends and location-specific variations.
 
-## Project 3
+https://github.com/fakalikhan/mywebsite/blob/main/Assignment-5.html
+
+
