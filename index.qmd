@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 ---
 title: "Faraz Ali"
 image: img/profile.png
@@ -38,50 +38,3 @@ My professional experience includes roles as a Trainee Research Analyst at Aba A
 
 
 
-:::
-
-
-=======
----
-title: "Faraz Ali"
-image: img/profile.png
-page-layout: full
-about:
-  id: me
-  template: trestles
-  image-width: 20em
-  image-shape: round
-  links:
-    - icon: email
-      text: Email
-      href: mailto:fak.alikhan99@gmail.com
-    - icon: CV
-      text: CV
-      href: https://github.com/fakalikhan/mywebsite/blob/main/Faraz%20Ali%20Resume.pdf
-    - icon: github
-      text: Github
-      href: https://github.com/fakalikhan
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/faraz-ali-a6887b1a6/
-  
-  
----
-
-:::{#me}
-
-My name is Faraz Ali, and I am an aspiring financial analyst with a robust background in finance, economics, and data science. I aim to leverage my analytical skills and industry knowledge to contribute to the growth and success of a leading financial services firm. My goal is to secure a challenging position that allows me to apply my expertise in financial modeling, portfolio management, and equity research, ultimately progressing towards a strategic leadership role in the industry.
-
-I hold a B.Sc. in Economics and Finance from the Institute of Business Management and am currently pursuing an M.Sc. in International Business Administration with a concentration in Finance, Accounting, and Data Science from the European University Viadrina. Additionally, I have passed the CFA Level 1 exam with a performance in the 90th percentile.
-
-My professional experience includes roles as a Trainee Research Analyst at Aba Ali Habib Securities, where I developed financial models and market analysis reports, an Equity Research Intern at Al Habib Capital Markets, and a Sales & Trading Intern at Next Capital Limited. I have also achieved notable success in the CFA Institute Research Challenge, ranking in the top 5 nationally. Through these roles, I have honed my skills in financial analysis, portfolio management, and client engagement.
-
-
-
-
-
-
-:::
-
-
->>>>>>> Stashed changes
